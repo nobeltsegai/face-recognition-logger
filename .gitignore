@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folders
+venv*/
+env*/
+
+# Package distribution info
+*.egg-info/
+*.dist-info/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Secrets
+.env
